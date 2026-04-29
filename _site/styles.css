@@ -1,0 +1,10 @@
+/* Remove bullets and padding from CV lists */
+.cv-list ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+/* Add slight spacing between list items for readability */
+.cv-list li {
+  margin-bottom: 12px;
+}

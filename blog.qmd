@@ -1,0 +1,5 @@
+---
+title: "Blog"
+---
+
+*Blog under construction.* Future posts will detail spatial modeling methodologies, Quarto workflows, and historical geography notes.

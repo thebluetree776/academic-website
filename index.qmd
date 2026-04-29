@@ -1,0 +1,81 @@
+---
+title: "Ichio Aoki"
+subtitle: "PhD Candidate | JSPS Research Fellow (DC2)"
+---
+
+[日本語](index-jp.qmd){.btn .btn-outline-secondary .btn-sm}
+
+I am a second-year PhD student at the Graduate School of Economics, The University of Tokyo, and a JSPS Research Fellow (DC2).
+
+My primary research investigates the spatial evolution of markets, focusing on the historical case of German territories in the 19th century.
+
+**Research Interests:** Economic History · Spatial Economics · Market Integration · Customs Unions · 19th Century Germany · Historical GIS · Simulation Modeling
+
+
+<a href="mailto:mail@ichio-aoki.com" class="btn btn-outline-secondary">Email Me</a>
+<a href="assets/cv.pdf" class="btn btn-primary" download target="_blank">Download CV</a>
+<a href="https://orcid.org/0009-0000-7512-8912" class="btn btn-outline-secondary" target="_blank">ORCID</a>
+<a href="https://researchmap.jp/ichio" class="btn btn-outline-secondary" target="_blank">researchmap</a>
+<a href="https://scholar.google.com" class="btn btn-outline-secondary" target="_blank">Google Scholar</a>
+
+::: {.cv-list}
+
+## Affiliations
+* **Research Fellow (DC2)**, Japan Society for the Promotion of Science [Apr 2026 – Present]{.float-end}
+* **PhD Course**, Graduate School of Economics, The University of Tokyo [Apr 2025 – Present]{.float-end}
+
+## Education
+* **Master of Economics**, Graduate School of Economics, The University of Tokyo [Sep 2019 – Sep 2022]{.float-end}
+* **Master of Science in Financial Economics**, School of Business and Economics, Maastricht University [Sep 2018 – Aug 2019]{.float-end}
+* **Bachelor of Science in Economics**, Faculty of Law and Economics, University of Mannheim [Sep 2015 – Aug 2018]{.float-end}
+
+## Works
+
+### Works in Progress
+* **[Title of Current Conference Paper/Poster]** [In Preparation]{.badge .bg-light .text-dark .border}
+  <br> Focusing on the spatial dynamics of the German Confederation using preliminary simulation data.
+
+### Presentations
+* *(Upcoming)* **Premature Integration? Competing Unions and Uneven Market Integration in Germany, 1828–1833** [May 2026]{.float-end}
+  <br> Japanese Economic Association Spring Conference, Osaka Metropolitan University
+* **Driver of Market Integration: Competing Customs Unions in 19th Century Germany** [In Preparation]{.badge .bg-light .text-dark .border} [Dec 2025]{.float-end}
+  <br> Centre for International Research on the Japanese Economy (CIRJE), The University of Tokyo
+
+### Past Theses
+* **Market Integration: German Unification and the Zollverein in the 19th Century** <a href="assets/thesis_ma_utokyo.pdf" class="badge bg-light text-dark border" style="text-decoration:none;" download target="_blank">Download</a> [2022]{.float-end}
+  <br> Master's Thesis, The University of Tokyo. Supervised by Prof. Masaki Nakabayashi 
+* **Measuring US Mutual Fund Herding in Industries** <a href="assets/thesis_msc_maastricht.pdf" class="badge bg-light text-dark border" style="text-decoration:none;" download target="_blank">Download</a> [2019]{.float-end}
+  <br> Master's Thesis, Maastricht University. Supervised by Dr. Matteo Bonetti 
+* **Conversation: Sustainable Information Exchange Among Competitors** <a href="assets/thesis_bsc_mannheim.pdf" class="badge bg-light text-dark border" style="text-decoration:none;" download target="_blank">Download</a> [2018]{.float-end}
+  <br> Bachelor's Thesis, University of Mannheim. Supervised by Prof. Takakazu Honryo 
+
+## Funding
+* **Grant-in-Aid for JSPS Fellows**, Japan Society for the Promotion of Science [2026 – 2028]{.float-end}
+  <br> Project No. 26KJ0705 | 1,600,000 JPY
+
+## Teaching Experience
+* *(Upcoming)*  **Teaching Assistant**, *R for Empirical Economics Research*, The University of Tokyo [Fall 2026]{.float-end}
+  <br> Course by Prof. Andrew Griffen
+* *(Upcoming)*  **Teaching Assistant**, *Institutional Analysis of the Japanese Economy II*, The University of Tokyo [Fall 2026]{.float-end}
+  <br> Course by Prof. Masaki Nakabayashi
+* **Teaching Assistant**, *Institutional Analysis of the Japanese Economy II*, The University of Tokyo [Fall 2025]{.float-end}
+  <br> Course by Prof. Masaki Nakabayashi
+
+## Professional Memberships
+* [Japanese Economic Association (JEA)](https://www.jeaweb.org)
+* [Applied Regional Science Conference (ARSC)](https://arsc.org)
+* [Econometric Society](https://www.econometricsociety.org)
+
+## Skills & Languages
+* **Methods & Tools:** Spatial Data Analysis, Simulation Modeling, R, Python, Quarto
+* **Languages:** English (Native), German (Fluent), Japanese (Fluent)
+
+## Contact
+* **Email:** [mail@ichio-aoki.com](mailto:mail@ichio-aoki.com)
+* **Office:** Akamon General Research Building, Room 353, Hongo Campus, The University of Tokyo
+
+:::
+
+---
+
+*Last updated: April 29, 2026*

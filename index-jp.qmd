@@ -1,0 +1,80 @@
+---
+title: "青木一生"
+subtitle: "博士課程在籍 | 学術振興会特別研究員（DC2）"
+---
+
+[English](index.qmd){.btn .btn-outline-secondary .btn-sm}
+
+東京大学大学院経済学研究科の博士課程2年生であり、日本学術振興会特別研究員（DC2）です。
+
+主な研究テーマは市場の空間的発展であり、19世紀ドイツ地域の歴史的事例を中心に分析しています。
+
+**研究分野：** 経済史・空間経済学・市場統合・関税同盟・19世紀ドイツ・歴史GIS・シミュレーションモデリング
+
+<a href="mailto:mail@ichio-aoki.com" class="btn btn-outline-secondary">メール</a>
+<a href="assets/cv.pdf" class="btn btn-primary" download target="_blank">CV ダウンロード</a>
+<a href="https://orcid.org/0009-0000-7512-8912" class="btn btn-outline-secondary" target="_blank">ORCID</a>
+<a href="https://researchmap.jp/ichio" class="btn btn-outline-secondary" target="_blank">researchmap</a>
+<a href="https://scholar.google.com" class="btn btn-outline-secondary" target="_blank">Google Scholar</a>
+
+::: {.cv-list}
+
+## 所属
+* **特別研究員（DC2）** 日本学術振興会 [2026年4月 – 現在]{.float-end}
+* **博士課程** 東京大学大学院経済学研究科 [2025年4月 – 現在]{.float-end}
+
+## 学歴
+* **経済学修士** 東京大学大学院経済学研究科 [2019年9月 – 2022年9月]{.float-end}
+* **理学修士（金融経済学）** マーストリヒト大学経営経済学部 [2018年9月 – 2019年8月]{.float-end}
+* **経済学学士** マンハイム大学法経学部 [2015年9月 – 2018年8月]{.float-end}
+
+## 研究業績
+
+### 進行中の研究
+* **【現在の会議論文・ポスターのタイトル】** [準備中]{.badge .bg-light .text-dark .border}
+  <br> 予備的シミュレーションデータを用いたドイツ連邦の空間的ダイナミクスに関する研究。
+
+### 発表
+* **Premature Integration? Competing Unions and Uneven Market Integration in Germany, 1828–1833** [2026年5月]{.float-end}
+  <br> *(予定)* 日本経済学会春季大会 大阪公立大学
+* **Driver of Market Integration: Competing Customs Unions in 19th Century Germany** [準備中]{.badge .bg-light .text-dark .border} [2025年12月]{.float-end}
+  <br> 東京大学日本経済国際共同研究センター（CIRJE）
+
+### 過去の論文
+* **Market Integration: German Unification and the Zollverein in the 19th Century** <a href="assets/thesis_ma_utokyo.pdf" class="badge bg-light text-dark border" style="text-decoration:none;" download target="_blank">ダウンロード</a> [2022年]{.float-end}
+  <br> 修士論文 東京大学 指導教員：中林真幸教授 
+* **Measuring US Mutual Fund Herding in Industries** <a href="assets/thesis_msc_maastricht.pdf" class="badge bg-light text-dark border" style="text-decoration:none;" download target="_blank">ダウンロード</a> [2019年]{.float-end}
+  <br> 修士論文 マーストリヒト大学 指導教員：Matteo Bonetti 博士 
+* **Conversation: Sustainable Information Exchange Among Competitors** <a href="assets/thesis_bsc_mannheim.pdf" class="badge bg-light text-dark border" style="text-decoration:none;" download target="_blank">ダウンロード</a>
+ [2018年]{.float-end}
+  <br> 学士論文 マンハイム大学 指導教員：本領崇一教授 
+## 研究資金
+* **科学研究費助成事業（特別研究員奨励費）** 日本学術振興会 [2026年 – 2028年]{.float-end}
+  <br> 課題番号：26KJ0705 | 1,600,000円
+
+## 教育経験
+* *(予定)* **ティーチング・アシスタント** *R for Empirical Economics Research* 東京大学 [2026年秋]{.float-end}
+  <br> Andrew Griffen教授担当科目
+* *(予定)* **ティーチング・アシスタント** *日本経済の制度分析II* 東京大学 [2026年秋]{.float-end}
+  <br> 中林真幸教授担当科目
+* **ティーチング・アシスタント** *日本経済の制度分析II* 東京大学 [2025年秋]{.float-end}
+  <br> 中林真幸教授担当科目
+
+## 学会・協会
+* [日本経済学会（JEA）](https://www.jeaweb.org)
+* [応用地域学会（ARSC）](https://arsc.org)
+* [計量経済学会](https://www.econometricsociety.org)
+
+## スキル・言語
+* **手法・ツール：** 空間データ分析 シミュレーションモデリング R Python Quarto
+* **言語：** 英語（母語） ドイツ語（流暢） 日本語（流暢）
+
+## 連絡先
+* **メール：** [mail@ichio-aoki.com](mailto:mail@ichio-aoki.com)
+* **研究室：** 東京大学 本郷キャンパス 赤門総合研究棟353号室
+
+:::
+
+---
+
+*最終更新：2026年4月29日*

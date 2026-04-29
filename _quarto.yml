@@ -1,0 +1,27 @@
+project:
+  type: website
+  resources: 
+    - "assets/"
+    - "CNAME"
+
+website:
+  title: "Ichio Aoki"
+  site-url: "https://ichio-aoki.com"
+  sidebar:
+    style: docked
+    background: light
+    contents:
+      - text: "English"
+        href: index.qmd
+      - text: "日本語"
+        href: index-jp.qmd
+      - text: "CV"
+        href: assets/cv.pdf
+      - text: "Notes"
+        href: blog.qmd
+
+format:
+  html:
+    theme: cosmo
+    toc: false
+    css: styles.css
