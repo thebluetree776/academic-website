@@ -46,6 +46,7 @@ subtitle: "博士課程在籍 | 学術振興会特別研究員（DC2）"
 * **Conversation: Sustainable Information Exchange Among Competitors** <a href="assets/thesis_bsc_mannheim.pdf" class="badge bg-light text-dark border" style="text-decoration:none;" download target="_blank">ダウンロード</a>
  [2018年]{.float-end}
   <br> 学士論文 マンハイム大学 指導教員：本領崇一教授 
+  
 ## 研究資金
 * **科学研究費助成事業（特別研究員奨励費）** 日本学術振興会 [2026年 – 2028年]{.float-end}
   <br> 課題番号：26KJ0705 | 1,600,000円
