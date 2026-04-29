@@ -29,13 +29,13 @@ subtitle: "博士課程在籍 | 学術振興会特別研究員（DC2）"
 ## 研究業績
 
 ### 進行中の研究
-* **【現在の会議論文・ポスターのタイトル】** [準備中]{.badge .bg-light .text-dark .border}
-  <br> 予備的シミュレーションデータを用いたドイツ連邦の空間的ダイナミクスに関する研究。
+* **【TBD】** [準備中]{.badge .bg-light .text-dark .border}
+  <br> ドイツ連邦の空間的ダイナミクスに関する研究。
 
 ### 発表
 * **Premature Integration? Competing Unions and Uneven Market Integration in Germany, 1828–1833** [2026年5月]{.float-end}
-  <br> *(予定)* 日本経済学会春季大会 大阪公立大学
-* **Driver of Market Integration: Competing Customs Unions in 19th Century Germany** [準備中]{.badge .bg-light .text-dark .border} [2025年12月]{.float-end}
+  <br> *(予定)* 日本経済学会2026年度春季大会 大阪公立大学
+* **Driver of Market Integration: Competing Customs Unions in 19th Century Germany** <a href="assets/pres_20251201_history.pdf" class="badge bg-light text-dark border" style="text-decoration:none;" download target="_blank">ダウンロード</a>{.badge .bg-light .text-dark .border} [2025年12月]{.float-end}
   <br> 東京大学日本経済国際共同研究センター（CIRJE）
 
 ### 過去の論文
