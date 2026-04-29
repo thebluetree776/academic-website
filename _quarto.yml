@@ -15,8 +15,6 @@ website:
         href: index.qmd
       - text: "日本語"
         href: index-jp.qmd
-      - text: "CV"
-        href: assets/cv.pdf
       - text: "Notes"
         href: blog.qmd
 
