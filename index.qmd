@@ -34,7 +34,7 @@ My primary research investigates the spatial evolution of markets, focusing on t
   <br> Focusing on the spatial dynamics of the German Confederation using preliminary simulation data.
 
 ### Presentations
-* *(Upcoming)* **Premature Integration? Competing Unions and Uneven Market Integration in Germany, 1828–1833** [May 2026]{.float-end}
+* *(Upcoming)* **Premature Integration? Competing Unions and Uneven Market Integration in Germany, 1828–1833** <a href="assets/poster_20260523_JEA.pdf" class="badge bg-light text-dark border" style="text-decoration:none;" download target="_blank">Download</a> [May 2026]{.float-end}
   <br> Japanese Economic Association 2026 Spring Conference, Osaka Metropolitan University
 * **Driver of Market Integration: Competing Customs Unions in 19th Century Germany** <a href="assets/pres_20251201_history.pdf" class="badge bg-light text-dark border" style="text-decoration:none;" download target="_blank">Download</a> [Dec 2025]{.float-end}
   <br> Centre for International Research on the Japanese Economy (CIRJE), The University of Tokyo

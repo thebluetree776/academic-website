@@ -33,7 +33,7 @@ subtitle: "博士課程在籍 | 学術振興会特別研究員（DC2）"
   <br> ドイツ連邦の空間的ダイナミクスに関する研究。
 
 ### 発表
-* **Premature Integration? Competing Unions and Uneven Market Integration in Germany, 1828–1833** [2026年5月]{.float-end}
+* **Premature Integration? Competing Unions and Uneven Market Integration in Germany, 1828–1833** <a href="assets/poster_20260523_JEA.pdf" class="badge bg-light text-dark border" style="text-decoration:none;" download target="_blank">ダウンロード</a> [2026年5月]{.float-end}
   <br> *(予定)* 日本経済学会2026年度春季大会 大阪公立大学
 * **Driver of Market Integration: Competing Customs Unions in 19th Century Germany** <a href="assets/pres_20251201_history.pdf" class="badge bg-light text-dark border" style="text-decoration:none;" download target="_blank">ダウンロード</a>{.badge .bg-light .text-dark .border} [2025年12月]{.float-end}
   <br> 東京大学日本経済国際共同研究センター（CIRJE）
