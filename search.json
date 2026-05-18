@@ -1,105 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Ichio Aoki",
-    "section": "",
-    "text": "日本語\nI am a second-year PhD student at the Graduate School of Economics, The University of Tokyo, and a JSPS Research Fellow (DC2).\nMy primary research investigates the spatial evolution of markets, focusing on the historical case of German territories in the 19th century.\nResearch Interests: Economic History · Spatial Economics · Market Integration · Customs Unions · 19th Century Germany · Historical GIS · Simulation Modeling\nEmail Me ORCID researchmap\nLast updated: April 30, 2026",
-    "crumbs": [
-      "English"
-    ]
-  },
-  {
-    "objectID": "index.html#affiliations",
-    "href": "index.html#affiliations",
-    "title": "Ichio Aoki",
-    "section": "Affiliations",
-    "text": "Affiliations\n\nResearch Fellow (DC2), Japan Society for the Promotion of Science Apr 2026 – Present\nPhD Course, Graduate School of Economics, The University of Tokyo Apr 2025 – Present",
-    "crumbs": [
-      "English"
-    ]
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Ichio Aoki",
-    "section": "Education",
-    "text": "Education\n\nMaster of Economics, Graduate School of Economics, The University of Tokyo Sep 2019 – Sep 2022\nMaster of Science in Financial Economics, School of Business and Economics, Maastricht University Sep 2018 – Aug 2019\nBachelor of Science in Economics, Faculty of Law and Economics, University of Mannheim Sep 2015 – Aug 2018",
-    "crumbs": [
-      "English"
-    ]
-  },
-  {
-    "objectID": "index.html#works",
-    "href": "index.html#works",
-    "title": "Ichio Aoki",
-    "section": "Works",
-    "text": "Works\n\nWorks in Progress\n\n[TBD] In Preparation  Focusing on the spatial dynamics of the German Confederation using preliminary simulation data.\n\n\n\nPresentations\n\n(Upcoming) Premature Integration? Competing Unions and Uneven Market Integration in Germany, 1828–1833 May 2026  Japanese Economic Association 2026 Spring Conference, Osaka Metropolitan University\nDriver of Market Integration: Competing Customs Unions in 19th Century Germany Download Dec 2025  Centre for International Research on the Japanese Economy (CIRJE), The University of Tokyo\n\n\n\nPast Theses\n\nMarket Integration: German Unification and the Zollverein in the 19th Century Download 2022  Master’s Thesis, The University of Tokyo. Supervised by Prof. Masaki Nakabayashi\nMeasuring US Mutual Fund Herding in Industries Download 2019  Master’s Thesis, Maastricht University. Supervised by Dr. Matteo Bonetti\nConversation: Sustainable Information Exchange Among Competitors Download 2018  Bachelor’s Thesis, University of Mannheim. Supervised by Prof. Takakazu Honryo",
-    "crumbs": [
-      "English"
-    ]
-  },
-  {
-    "objectID": "index.html#funding",
-    "href": "index.html#funding",
-    "title": "Ichio Aoki",
-    "section": "Funding",
-    "text": "Funding\n\nGrant-in-Aid for JSPS Fellows, Japan Society for the Promotion of Science 2026 – 2028  Project No. 26KJ0705 | 1,600,000 JPY",
-    "crumbs": [
-      "English"
-    ]
-  },
-  {
-    "objectID": "index.html#teaching-experience",
-    "href": "index.html#teaching-experience",
-    "title": "Ichio Aoki",
-    "section": "Teaching Experience",
-    "text": "Teaching Experience\n\n(Upcoming) Teaching Assistant, R for Empirical Economics Research, The University of Tokyo Fall 2026  Course by Prof. Andrew Griffen\n(Upcoming) Teaching Assistant, Institutional Analysis of the Japanese Economy II, The University of Tokyo Fall 2026  Course by Prof. Masaki Nakabayashi\nTeaching Assistant, Institutional Analysis of the Japanese Economy II, The University of Tokyo Fall 2025  Course by Prof. Masaki Nakabayashi",
-    "crumbs": [
-      "English"
-    ]
-  },
-  {
-    "objectID": "index.html#professional-memberships",
-    "href": "index.html#professional-memberships",
-    "title": "Ichio Aoki",
-    "section": "Professional Memberships",
-    "text": "Professional Memberships\n\nJapanese Economic Association (JEA)\nApplied Regional Science Conference (ARSC)\nEconometric Society",
-    "crumbs": [
-      "English"
-    ]
-  },
-  {
-    "objectID": "index.html#skills-languages",
-    "href": "index.html#skills-languages",
-    "title": "Ichio Aoki",
-    "section": "Skills & Languages",
-    "text": "Skills & Languages\n\nMethods & Tools: Spatial Data Analysis, Simulation Modeling, R, Python, Quarto\nLanguages: English (Native), German (Fluent), Japanese (Fluent)",
-    "crumbs": [
-      "English"
-    ]
-  },
-  {
-    "objectID": "index.html#contact",
-    "href": "index.html#contact",
-    "title": "Ichio Aoki",
-    "section": "Contact",
-    "text": "Contact\n\nEmail: mail@ichio-aoki.com\nOffice: Akamon General Research Building, Room 353, Hongo Campus, The University of Tokyo",
-    "crumbs": [
-      "English"
-    ]
-  },
-  {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "Blog",
-    "section": "",
-    "text": "Blog under construction. Future posts will detail spatial modeling methodologies, Quarto workflows, and historical geography notes.",
-    "crumbs": [
-      "Notes"
-    ]
-  },
-  {
     "objectID": "index-jp.html",
     "href": "index-jp.html",
     "title": "青木一生",
@@ -134,7 +34,7 @@
     "href": "index-jp.html#研究業績",
     "title": "青木一生",
     "section": "研究業績",
-    "text": "研究業績\n\n進行中の研究\n\n【TBD】 準備中  ドイツ連邦の空間的ダイナミクスに関する研究。\n\n\n\n発表\n\nPremature Integration? Competing Unions and Uneven Market Integration in Germany, 1828–1833 2026年5月  (予定) 日本経済学会2026年度春季大会 大阪公立大学\nDriver of Market Integration: Competing Customs Unions in 19th Century Germany ダウンロード{.badge .bg-light .text-dark .border} 2025年12月  東京大学日本経済国際共同研究センター（CIRJE）\n\n\n\n過去の論文\n\nMarket Integration: German Unification and the Zollverein in the 19th Century ダウンロード 2022年  修士論文 東京大学 指導教員：中林真幸教授\nMeasuring US Mutual Fund Herding in Industries ダウンロード 2019年  修士論文 マーストリヒト大学 指導教員：Matteo Bonetti 博士\nConversation: Sustainable Information Exchange Among Competitors ダウンロード 2018年  学士論文 マンハイム大学 指導教員：本領崇一教授",
+    "text": "研究業績\n\n進行中の研究\n\n【TBD】 準備中  ドイツ連邦の空間的ダイナミクスに関する研究。\n\n\n\n発表\n\nPremature Integration? Competing Unions and Uneven Market Integration in Germany, 1828–1833 ダウンロード 2026年5月  (予定) 日本経済学会2026年度春季大会 大阪公立大学\nDriver of Market Integration: Competing Customs Unions in 19th Century Germany ダウンロード{.badge .bg-light .text-dark .border} 2025年12月  東京大学日本経済国際共同研究センター（CIRJE）\n\n\n\n過去の論文\n\nMarket Integration: German Unification and the Zollverein in the 19th Century ダウンロード 2022年  修士論文 東京大学 指導教員：中林真幸教授\nMeasuring US Mutual Fund Herding in Industries ダウンロード 2019年  修士論文 マーストリヒト大学 指導教員：Matteo Bonetti 博士\nConversation: Sustainable Information Exchange Among Competitors ダウンロード 2018年  学士論文 マンハイム大学 指導教員：本領崇一教授",
     "crumbs": [
       "日本語"
     ]
@@ -187,6 +87,106 @@
     "text": "連絡先\n\nメール： mail@ichio-aoki.com\n研究室： 東京大学 本郷キャンパス 赤門総合研究棟353号室",
     "crumbs": [
       "日本語"
+    ]
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Under construction.",
+    "crumbs": [
+      "Notes"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Ichio Aoki",
+    "section": "",
+    "text": "日本語\nI am a second-year PhD student at the Graduate School of Economics, The University of Tokyo, and a JSPS Research Fellow (DC2).\nMy primary research investigates the spatial evolution of markets, focusing on the historical case of German territories in the 19th century.\nResearch Interests: Economic History · Spatial Economics · Market Integration · Customs Unions · 19th Century Germany · Historical GIS · Simulation Modeling\nEmail Me ORCID researchmap\nLast updated: April 30, 2026",
+    "crumbs": [
+      "English"
+    ]
+  },
+  {
+    "objectID": "index.html#affiliations",
+    "href": "index.html#affiliations",
+    "title": "Ichio Aoki",
+    "section": "Affiliations",
+    "text": "Affiliations\n\nResearch Fellow (DC2), Japan Society for the Promotion of Science Apr 2026 – Present\nPhD Course, Graduate School of Economics, The University of Tokyo Apr 2025 – Present",
+    "crumbs": [
+      "English"
+    ]
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Ichio Aoki",
+    "section": "Education",
+    "text": "Education\n\nMaster of Economics, Graduate School of Economics, The University of Tokyo Sep 2019 – Sep 2022\nMaster of Science in Financial Economics, School of Business and Economics, Maastricht University Sep 2018 – Aug 2019\nBachelor of Science in Economics, Faculty of Law and Economics, University of Mannheim Sep 2015 – Aug 2018",
+    "crumbs": [
+      "English"
+    ]
+  },
+  {
+    "objectID": "index.html#works",
+    "href": "index.html#works",
+    "title": "Ichio Aoki",
+    "section": "Works",
+    "text": "Works\n\nWorks in Progress\n\n[TBD] In Preparation  Focusing on the spatial dynamics of the German Confederation using preliminary simulation data.\n\n\n\nPresentations\n\n(Upcoming) Premature Integration? Competing Unions and Uneven Market Integration in Germany, 1828–1833 Download May 2026  Japanese Economic Association 2026 Spring Conference, Osaka Metropolitan University\nDriver of Market Integration: Competing Customs Unions in 19th Century Germany Download Dec 2025  Centre for International Research on the Japanese Economy (CIRJE), The University of Tokyo\n\n\n\nPast Theses\n\nMarket Integration: German Unification and the Zollverein in the 19th Century Download 2022  Master’s Thesis, The University of Tokyo. Supervised by Prof. Masaki Nakabayashi\nMeasuring US Mutual Fund Herding in Industries Download 2019  Master’s Thesis, Maastricht University. Supervised by Dr. Matteo Bonetti\nConversation: Sustainable Information Exchange Among Competitors Download 2018  Bachelor’s Thesis, University of Mannheim. Supervised by Prof. Takakazu Honryo",
+    "crumbs": [
+      "English"
+    ]
+  },
+  {
+    "objectID": "index.html#funding",
+    "href": "index.html#funding",
+    "title": "Ichio Aoki",
+    "section": "Funding",
+    "text": "Funding\n\nGrant-in-Aid for JSPS Fellows, Japan Society for the Promotion of Science 2026 – 2028  Project No. 26KJ0705 | 1,600,000 JPY",
+    "crumbs": [
+      "English"
+    ]
+  },
+  {
+    "objectID": "index.html#teaching-experience",
+    "href": "index.html#teaching-experience",
+    "title": "Ichio Aoki",
+    "section": "Teaching Experience",
+    "text": "Teaching Experience\n\n(Upcoming) Teaching Assistant, R for Empirical Economics Research, The University of Tokyo Fall 2026  Course by Prof. Andrew Griffen\n(Upcoming) Teaching Assistant, Institutional Analysis of the Japanese Economy II, The University of Tokyo Fall 2026  Course by Prof. Masaki Nakabayashi\nTeaching Assistant, Institutional Analysis of the Japanese Economy II, The University of Tokyo Fall 2025  Course by Prof. Masaki Nakabayashi",
+    "crumbs": [
+      "English"
+    ]
+  },
+  {
+    "objectID": "index.html#professional-memberships",
+    "href": "index.html#professional-memberships",
+    "title": "Ichio Aoki",
+    "section": "Professional Memberships",
+    "text": "Professional Memberships\n\nJapanese Economic Association (JEA)\nApplied Regional Science Conference (ARSC)\nEconometric Society",
+    "crumbs": [
+      "English"
+    ]
+  },
+  {
+    "objectID": "index.html#skills-languages",
+    "href": "index.html#skills-languages",
+    "title": "Ichio Aoki",
+    "section": "Skills & Languages",
+    "text": "Skills & Languages\n\nMethods & Tools: Spatial Data Analysis, Simulation Modeling, R, Python, Quarto\nLanguages: English (Native), German (Fluent), Japanese (Fluent)",
+    "crumbs": [
+      "English"
+    ]
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Ichio Aoki",
+    "section": "Contact",
+    "text": "Contact\n\nEmail: mail@ichio-aoki.com\nOffice: Akamon General Research Building, Room 353, Hongo Campus, The University of Tokyo",
+    "crumbs": [
+      "English"
     ]
   }
 ]
