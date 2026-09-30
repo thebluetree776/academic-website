@@ -1,12 +1,18 @@
 project:
   type: website
-  resources: 
+  render:
+    - "*.qmd"
+  resources:
     - "assets/"
     - "CNAME"
 
 website:
   title: "Ichio Aoki"
   site-url: "https://ichio-aoki.com"
+  description: "Ichio Aoki: PhD student in economics at the University of Tokyo and JSPS Research Fellow (DC2), researching market integration and customs unions in 19th-century Germany."
+  favicon: favicon.svg
+  open-graph: true
+  twitter-card: true
   sidebar:
     style: docked
     background: light
@@ -23,3 +29,5 @@ format:
     theme: cosmo
     toc: false
     css: styles.css
+    filters:
+      - filters/download-links.lua

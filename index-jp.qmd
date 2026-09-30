@@ -1,6 +1,8 @@
 ---
 title: "青木一生"
-subtitle: "博士課程在籍 | 学術振興会特別研究員（DC2）"
+subtitle: "博士課程2年 | 日本学術振興会特別研究員（DC2）"
+lang: ja
+description: "青木一生：東京大学大学院経済学研究科博士課程2年、日本学術振興会特別研究員（DC2）。19世紀ドイツの市場統合と関税同盟を研究。"
 ---
 
 [English](index.qmd){.btn .btn-outline-secondary .btn-sm}
@@ -9,7 +11,7 @@ subtitle: "博士課程在籍 | 学術振興会特別研究員（DC2）"
 
 主な研究テーマは市場の空間的発展であり、19世紀ドイツ地域の歴史的事例を中心に分析しています。
 
-**研究分野：** 経済史・空間経済学・市場統合・関税同盟・19世紀ドイツ・歴史GIS・シミュレーションモデリング
+**研究分野：** 経済史・空間経済学・市場統合・関税同盟・貿易政策・地域貿易協定・19世紀ドイツ・歴史GIS・シミュレーションモデリング
 
 <a href="mailto:mail@ichio-aoki.com" class="btn btn-outline-secondary">メール</a>
 <a href="https://orcid.org/0009-0000-7512-8912" class="btn btn-outline-secondary" target="_blank">ORCID</a>
@@ -29,38 +31,43 @@ subtitle: "博士課程在籍 | 学術振興会特別研究員（DC2）"
 ## 研究業績
 
 ### 進行中の研究
-* **【TBD】** [準備中]{.badge .bg-light .text-dark .border}
-  <br> ドイツ連邦の空間的ダイナミクスに関する研究。
+* **Weak Bonds? Competing Regional Customs Unions and the German Market before the Zollverein** [ダウンロード](assets/paper_202608_weakbonds.pdf){.dl} [2026年8月]{.float-end}
 
 ### 発表
-* **Premature Integration? Competing Unions and Uneven Market Integration in Germany, 1828–1833** <a href="assets/poster_20260523_JEA.pdf" class="badge bg-light text-dark border" style="text-decoration:none;" download target="_blank">ダウンロード</a> [2026年5月]{.float-end}
-  <br> *(予定)* 日本経済学会2026年度春季大会 大阪公立大学
-* **Driver of Market Integration: Competing Customs Unions in 19th Century Germany** <a href="assets/pres_20251201_history.pdf" class="badge bg-light text-dark border" style="text-decoration:none;" download target="_blank">ダウンロード</a>{.badge .bg-light .text-dark .border} [2025年12月]{.float-end}
+* *(予定)* **Weak Bonds? Competing Regional Customs Unions and the German Market before the Zollverein** [2026年11月]{.float-end}
+  <br> North American Regional Science Council (NARSC) 2026 Annual Meeting, Philadelphia, USA — Graduate Student Author Paper Competition
+* *(予定)* **Weak Bonds? Competing Regional Customs Unions and the German Market before the Zollverein** [2026年10月]{.float-end}
+  <br> [早稲田大学現代政治経済研究所（WINPEC）マクロ経済学セミナー](https://winpec.sakura.ne.jp/Winpec_Workshop_Calendar/workshop/2)
+* **Premature Integration? Competing Unions and Uneven Market Integration in Germany, 1828–1833** [ダウンロード](assets/poster_20260523_JEA.pdf){.dl} [2026年5月]{.float-end}
+  <br> 日本経済学会2026年度春季大会 大阪公立大学
+* **Driver of Market Integration: Competing Customs Unions in 19th Century Germany** [ダウンロード](assets/pres_20251201_history.pdf){.dl} [2025年12月]{.float-end}
   <br> 東京大学日本経済国際共同研究センター（CIRJE）
 
 ### 過去の論文
-* **Market Integration: German Unification and the Zollverein in the 19th Century** <a href="assets/thesis_ma_utokyo.pdf" class="badge bg-light text-dark border" style="text-decoration:none;" download target="_blank">ダウンロード</a> [2022年]{.float-end}
-  <br> 修士論文 東京大学 指導教員：中林真幸教授 
-* **Measuring US Mutual Fund Herding in Industries** <a href="assets/thesis_msc_maastricht.pdf" class="badge bg-light text-dark border" style="text-decoration:none;" download target="_blank">ダウンロード</a> [2019年]{.float-end}
-  <br> 修士論文 マーストリヒト大学 指導教員：Matteo Bonetti 博士 
-* **Conversation: Sustainable Information Exchange Among Competitors** <a href="assets/thesis_bsc_mannheim.pdf" class="badge bg-light text-dark border" style="text-decoration:none;" download target="_blank">ダウンロード</a>
- [2018年]{.float-end}
-  <br> 学士論文 マンハイム大学 指導教員：本領崇一教授 
-  
+* **Market Integration: German Unification and the Zollverein in the 19th Century** [ダウンロード](assets/thesis_ma_utokyo.pdf){.dl} [2022年]{.float-end}
+  <br> 修士論文 東京大学 指導教員：中林真幸教授
+* **Measuring US Mutual Fund Herding in Industries** [ダウンロード](assets/thesis_msc_maastricht.pdf){.dl} [2019年]{.float-end}
+  <br> 修士論文 マーストリヒト大学 指導教員：Matteo Bonetti 博士
+* **Conversation: Sustainable Information Exchange Among Competitors** [ダウンロード](assets/thesis_bsc_mannheim.pdf){.dl} [2018年]{.float-end}
+  <br> 学士論文 マンハイム大学 指導教員：本領崇一教授
+
 ## 研究資金
 * **科学研究費助成事業（特別研究員奨励費）** 日本学術振興会 [2026年 – 2028年]{.float-end}
   <br> 課題番号：26KJ0705 | 1,600,000円
 
 ## 教育経験
-* *(予定)* **ティーチング・アシスタント** *R for Empirical Economics Research* 東京大学 [2026年秋]{.float-end}
-  <br> Andrew Griffen教授担当科目
-* *(予定)* **ティーチング・アシスタント** *日本経済の制度分析II* 東京大学 [2026年秋]{.float-end}
+* **ティーチング・アシスタント** *日本経済の制度分析II* 東京大学大学院経済学研究科 [2026年秋]{.float-end}
   <br> 中林真幸教授担当科目
-* **ティーチング・アシスタント** *日本経済の制度分析II* 東京大学 [2025年秋]{.float-end}
+* **ティーチング・アシスタント** *R for Empirical Research* 東京大学大学院経済学研究科 [2026年秋]{.float-end}
+  <br> Andrew Griffen教授担当科目
+* **ティーチング・アシスタント** *日本経済の制度分析II* 東京大学大学院経済学研究科 [2025年秋]{.float-end}
+  <br> 中林真幸教授担当科目
+* **ティーチング・アシスタント** *日本経済の制度分析II* 東京大学大学院経済学研究科 [2021年秋]{.float-end}
   <br> 中林真幸教授担当科目
 
 ## 学会・協会
 * [日本経済学会（JEA）](https://www.jeaweb.org)
+* [日本国際経済学会（JSIE）](https://www.jsie.jp)
 * [応用地域学会（ARSC）](https://arsc.org)
 * [計量経済学会](https://www.econometricsociety.org)
 
@@ -69,11 +76,12 @@ subtitle: "博士課程在籍 | 学術振興会特別研究員（DC2）"
 * **言語：** 英語（母語） ドイツ語（流暢） 日本語（流暢）
 
 ## 連絡先
-* **メール：** [mail@ichio-aoki.com](mailto:mail@ichio-aoki.com)
+* **メール（一般）：** [mail@ichio-aoki.com](mailto:mail@ichio-aoki.com)
+* **メール（大学）：** [ichio-aoki@g.ecc.u-tokyo.ac.jp](mailto:ichio-aoki@g.ecc.u-tokyo.ac.jp)
 * **研究室：** 東京大学 本郷キャンパス 赤門総合研究棟353号室
 
 :::
 
 ---
 
-*最終更新：2026年4月29日*
+*最終更新：2026年10月1日*

@@ -1,6 +1,7 @@
 ---
 title: "Ichio Aoki"
-subtitle: "PhD Candidate | JSPS Research Fellow (DC2)"
+subtitle: "Second-Year PhD Student | JSPS Research Fellow (DC2)"
+description: "Ichio Aoki: PhD student in economics at the University of Tokyo and JSPS Research Fellow (DC2), researching market integration and customs unions in 19th-century Germany."
 ---
 
 [日本語](index-jp.qmd){.btn .btn-outline-secondary .btn-sm}
@@ -9,7 +10,7 @@ I am a second-year PhD student at the Graduate School of Economics, The Universi
 
 My primary research investigates the spatial evolution of markets, focusing on the historical case of German territories in the 19th century.
 
-**Research Interests:** Economic History · Spatial Economics · Market Integration · Customs Unions · 19th Century Germany · Historical GIS · Simulation Modeling
+**Research Interests:** Economic History · Spatial Economics · Market Integration · Customs Unions · Trade Policy · Regional Trade Agreements · 19th Century Germany · Historical GIS · Simulation Modeling
 
 
 <a href="mailto:mail@ichio-aoki.com" class="btn btn-outline-secondary">Email Me</a>
@@ -30,21 +31,24 @@ My primary research investigates the spatial evolution of markets, focusing on t
 ## Works
 
 ### Works in Progress
-* **[TBD]** [In Preparation]{.badge .bg-light .text-dark .border}
-  <br> Focusing on the spatial dynamics of the German Confederation using preliminary simulation data.
+* **Weak Bonds? Competing Regional Customs Unions and the German Market before the Zollverein** [Download](assets/paper_202608_weakbonds.pdf){.dl} [Aug 2026]{.float-end}
 
 ### Presentations
-* *(Upcoming)* **Premature Integration? Competing Unions and Uneven Market Integration in Germany, 1828–1833** <a href="assets/poster_20260523_JEA.pdf" class="badge bg-light text-dark border" style="text-decoration:none;" download target="_blank">Download</a> [May 2026]{.float-end}
+* *(Upcoming)* **Weak Bonds? Competing Regional Customs Unions and the German Market before the Zollverein** [Nov 2026]{.float-end}
+  <br> North American Regional Science Council (NARSC) 2026 Annual Meeting, Philadelphia, USA — Graduate Student Author Paper Competition
+* *(Upcoming)* **Weak Bonds? Competing Regional Customs Unions and the German Market before the Zollverein** [Oct 2026]{.float-end}
+  <br> [WINPEC Macroeconomics Seminar](https://winpec.sakura.ne.jp/Winpec_Workshop_Calendar/workshop/2), Waseda University
+* **Premature Integration? Competing Unions and Uneven Market Integration in Germany, 1828–1833** [Download](assets/poster_20260523_JEA.pdf){.dl} [May 2026]{.float-end}
   <br> Japanese Economic Association 2026 Spring Conference, Osaka Metropolitan University
-* **Driver of Market Integration: Competing Customs Unions in 19th Century Germany** <a href="assets/pres_20251201_history.pdf" class="badge bg-light text-dark border" style="text-decoration:none;" download target="_blank">Download</a> [Dec 2025]{.float-end}
+* **Driver of Market Integration: Competing Customs Unions in 19th Century Germany** [Download](assets/pres_20251201_history.pdf){.dl} [Dec 2025]{.float-end}
   <br> Centre for International Research on the Japanese Economy (CIRJE), The University of Tokyo
 
 ### Past Theses
-* **Market Integration: German Unification and the Zollverein in the 19th Century** <a href="assets/thesis_ma_utokyo.pdf" class="badge bg-light text-dark border" style="text-decoration:none;" download target="_blank">Download</a> [2022]{.float-end}
+* **Market Integration: German Unification and the Zollverein in the 19th Century** [Download](assets/thesis_ma_utokyo.pdf){.dl} [2022]{.float-end}
   <br> Master's Thesis, The University of Tokyo. Supervised by Prof. Masaki Nakabayashi 
-* **Measuring US Mutual Fund Herding in Industries** <a href="assets/thesis_msc_maastricht.pdf" class="badge bg-light text-dark border" style="text-decoration:none;" download target="_blank">Download</a> [2019]{.float-end}
+* **Measuring US Mutual Fund Herding in Industries** [Download](assets/thesis_msc_maastricht.pdf){.dl} [2019]{.float-end}
   <br> Master's Thesis, Maastricht University. Supervised by Dr. Matteo Bonetti 
-* **Conversation: Sustainable Information Exchange Among Competitors** <a href="assets/thesis_bsc_mannheim.pdf" class="badge bg-light text-dark border" style="text-decoration:none;" download target="_blank">Download</a> [2018]{.float-end}
+* **Conversation: Sustainable Information Exchange Among Competitors** [Download](assets/thesis_bsc_mannheim.pdf){.dl} [2018]{.float-end}
   <br> Bachelor's Thesis, University of Mannheim. Supervised by Prof. Takakazu Honryo 
 
 ## Funding
@@ -52,15 +56,18 @@ My primary research investigates the spatial evolution of markets, focusing on t
   <br> Project No. 26KJ0705 | 1,600,000 JPY
 
 ## Teaching Experience
-* *(Upcoming)*  **Teaching Assistant**, *R for Empirical Economics Research*, The University of Tokyo [Fall 2026]{.float-end}
-  <br> Course by Prof. Andrew Griffen
-* *(Upcoming)*  **Teaching Assistant**, *Institutional Analysis of the Japanese Economy II*, The University of Tokyo [Fall 2026]{.float-end}
+* **Teaching Assistant**, *Institutional Analysis of the Japanese Economy II*, Graduate School of Economics, The University of Tokyo [Fall 2026]{.float-end}
   <br> Course by Prof. Masaki Nakabayashi
-* **Teaching Assistant**, *Institutional Analysis of the Japanese Economy II*, The University of Tokyo [Fall 2025]{.float-end}
+* **Teaching Assistant**, *R for Empirical Research*, Graduate School of Economics, The University of Tokyo [Fall 2026]{.float-end}
+  <br> Course by Prof. Andrew Griffen
+* **Teaching Assistant**, *Institutional Analysis of the Japanese Economy II*, Graduate School of Economics, The University of Tokyo [Fall 2025]{.float-end}
+  <br> Course by Prof. Masaki Nakabayashi
+* **Teaching Assistant**, *Institutional Analysis of the Japanese Economy II*, Graduate School of Economics, The University of Tokyo [Fall 2021]{.float-end}
   <br> Course by Prof. Masaki Nakabayashi
 
 ## Professional Memberships
 * [Japanese Economic Association (JEA)](https://www.jeaweb.org)
+* [Japan Society of International Economics (JSIE)](https://www.jsie.jp/en/)
 * [Applied Regional Science Conference (ARSC)](https://arsc.org)
 * [Econometric Society](https://www.econometricsociety.org)
 
@@ -69,11 +76,12 @@ My primary research investigates the spatial evolution of markets, focusing on t
 * **Languages:** English (Native), German (Fluent), Japanese (Fluent)
 
 ## Contact
-* **Email:** [mail@ichio-aoki.com](mailto:mail@ichio-aoki.com)
+* **Email (General):** [mail@ichio-aoki.com](mailto:mail@ichio-aoki.com)
+* **Email (University):** [ichio-aoki@g.ecc.u-tokyo.ac.jp](mailto:ichio-aoki@g.ecc.u-tokyo.ac.jp)
 * **Office:** Akamon General Research Building, Room 353, Hongo Campus, The University of Tokyo
 
 :::
 
 ---
 
-*Last updated: April 30, 2026*
+*Last updated: October 1, 2026*

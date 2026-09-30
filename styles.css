@@ -7,4 +7,31 @@
 /* Add slight spacing between list items for readability */
 .cv-list li {
   margin-bottom: 12px;
+  /* Contain the floated date so it never spills into the next entry */
+  display: flow-root;
+}
+
+/* Start the detail line below the date, not beside it */
+.cv-list li br {
+  clear: both;
+}
+
+/* Download badge for PDFs: [Download](assets/x.pdf){.dl} */
+a.dl {
+  display: inline-block;
+  padding: 0.35em 0.65em;
+  font-size: 0.75em;
+  font-weight: 700;
+  line-height: 1;
+  vertical-align: baseline;
+  white-space: nowrap;
+  color: var(--bs-dark);
+  background-color: var(--bs-light);
+  border: 1px solid var(--bs-border-color);
+  border-radius: var(--bs-border-radius);
+  text-decoration: none;
+}
+
+a.dl:hover {
+  background-color: var(--bs-secondary-bg);
 }
