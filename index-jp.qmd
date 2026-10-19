@@ -36,7 +36,7 @@ description: "青木一生：東京大学大学院経済学研究科博士課程
 ### 発表
 * *(予定)* **Weak Bonds? Competing Regional Customs Unions and the German Market before the Zollverein** [2026年11月]{.float-end}
   <br> North American Regional Science Council (NARSC) 2026 Annual Meeting, Philadelphia, USA — Graduate Student Author Paper Competition
-* *(予定)* **Weak Bonds? Competing Regional Customs Unions and the German Market before the Zollverein** [2026年10月]{.float-end}
+* **Competing Customs Unions and Market Integration: Grain prices in the German states, 1818–1833** [ダウンロード](assets/pres_20261019_winpec.pdf){.dl} [2026年10月]{.float-end}
   <br> [早稲田大学現代政治経済研究所（WINPEC）マクロ経済学セミナー](https://winpec.sakura.ne.jp/Winpec_Workshop_Calendar/workshop/2)
 * **Premature Integration? Competing Unions and Uneven Market Integration in Germany, 1828–1833** [ダウンロード](assets/poster_20260523_JEA.pdf){.dl} [2026年5月]{.float-end}
   <br> 日本経済学会2026年度春季大会 大阪公立大学
@@ -84,4 +84,4 @@ description: "青木一生：東京大学大学院経済学研究科博士課程
 
 ---
 
-*最終更新：2026年10月1日*
+*最終更新：2026年10月19日*
