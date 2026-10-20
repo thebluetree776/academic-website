@@ -20,7 +20,6 @@ This is a [Quarto](https://quarto.org) static website — an academic personal/C
 **Content files:**
 - `index.qmd` — English CV page (primary)
 - `index-jp.qmd` — Japanese CV page (must be kept in sync with `index.qmd`)
-- `blog.qmd` — "Notes" page (under construction)
 
 **When updating CV content** (publications, presentations, affiliations, etc.), both `index.qmd` and `index-jp.qmd` must be updated together.
 

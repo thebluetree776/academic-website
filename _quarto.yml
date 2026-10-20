@@ -21,8 +21,6 @@ website:
         href: index.qmd
       - text: "日本語"
         href: index-jp.qmd
-      - text: "Notes"
-        href: blog.qmd
 
 format:
   html:

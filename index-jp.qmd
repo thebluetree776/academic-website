@@ -13,9 +13,10 @@ description: "青木一生：東京大学大学院経済学研究科博士課程
 
 **研究分野：** 経済史・空間経済学・市場統合・関税同盟・貿易政策・地域貿易協定・19世紀ドイツ・歴史GIS・シミュレーションモデリング
 
-<a href="mailto:mail@ichio-aoki.com" class="btn btn-outline-secondary">メール</a>
+<a href="#contact" class="btn btn-outline-secondary">メール</a>
 <a href="https://orcid.org/0009-0000-7512-8912" class="btn btn-outline-secondary" target="_blank">ORCID</a>
 <a href="https://researchmap.jp/ichio" class="btn btn-outline-secondary" target="_blank">researchmap</a>
+<a href="https://scholar.google.com/citations?user=YI9-vDMAAAAJ" class="btn btn-outline-secondary" target="_blank">Google Scholar</a>
 
 ::: {.cv-list}
 
@@ -36,12 +37,12 @@ description: "青木一生：東京大学大学院経済学研究科博士課程
 ### 発表
 * *(予定)* **Weak Bonds? Competing Regional Customs Unions and the German Market before the Zollverein** [2026年11月]{.float-end}
   <br> North American Regional Science Council (NARSC) 2026 Annual Meeting, Philadelphia, USA — Graduate Student Author Paper Competition
-* **Competing Customs Unions and Market Integration: Grain prices in the German states, 1818–1833** [ダウンロード](assets/pres_20261019_winpec.pdf){.dl} [2026年10月]{.float-end}
-  <br> [早稲田大学現代政治経済研究所（WINPEC）マクロ経済学セミナー](https://winpec.sakura.ne.jp/Winpec_Workshop_Calendar/workshop/2)
+* **Weak Bonds? Competing Regional Customs Unions and the German Market before the Zollverein** [ダウンロード](assets/pres_20261019_winpec.pdf){.dl} [2026年10月]{.float-end}
+  <br> [早稲田大学現代政治経済研究所（WINPEC）マクロ経済学セミナー](https://winpec.sakura.ne.jp/Winpec_Workshop_Calendar/seminars/view/289)
 * **Premature Integration? Competing Unions and Uneven Market Integration in Germany, 1828–1833** [ダウンロード](assets/poster_20260523_JEA.pdf){.dl} [2026年5月]{.float-end}
   <br> 日本経済学会2026年度春季大会 大阪公立大学
-* **Driver of Market Integration: Competing Customs Unions in 19th Century Germany** [ダウンロード](assets/pres_20251201_history.pdf){.dl} [2025年12月]{.float-end}
-  <br> 東京大学日本経済国際共同研究センター（CIRJE）
+* **Drivers of Market Integration: Competing Customs Unions in 19th Century Germany** [ダウンロード](assets/pres_20251201_history.pdf){.dl} [2025年12月]{.float-end}
+  <br> [経済史研究会 第813回](https://www.cirje.e.u-tokyo.ac.jp/research/workshops/history/history2025.html)（大学院生報告会） 東京大学日本経済国際共同研究センター（CIRJE）
 
 ### 過去の論文
 * **Market Integration: German Unification and the Zollverein in the 19th Century** [ダウンロード](assets/thesis_ma_utokyo.pdf){.dl} [2022年]{.float-end}
@@ -75,13 +76,13 @@ description: "青木一生：東京大学大学院経済学研究科博士課程
 * **手法・ツール：** 空間データ分析 シミュレーションモデリング R Python Quarto
 * **言語：** 英語（母語） ドイツ語（流暢） 日本語（流暢）
 
-## 連絡先
-* **メール（一般）：** [mail@ichio-aoki.com](mailto:mail@ichio-aoki.com)
-* **メール（大学）：** [ichio-aoki@g.ecc.u-tokyo.ac.jp](mailto:ichio-aoki@g.ecc.u-tokyo.ac.jp)
+## 連絡先 {#contact}
+* **メール（一般）：** mail [at] ichio-aoki.com
+* **メール（大学）：** ichio-aoki [at] g.ecc.u-tokyo.ac.jp
 * **研究室：** 東京大学 本郷キャンパス 赤門総合研究棟353号室
 
 :::
 
 ---
 
-*最終更新：2026年10月19日*
+*最終更新：2026年10月20日*

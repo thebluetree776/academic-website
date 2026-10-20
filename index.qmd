@@ -13,9 +13,10 @@ My primary research investigates the spatial evolution of markets, focusing on t
 **Research Interests:** Economic History · Spatial Economics · Market Integration · Customs Unions · Trade Policy · Regional Trade Agreements · 19th Century Germany · Historical GIS · Simulation Modeling
 
 
-<a href="mailto:mail@ichio-aoki.com" class="btn btn-outline-secondary">Email Me</a>
+<a href="#contact" class="btn btn-outline-secondary">Email Me</a>
 <a href="https://orcid.org/0009-0000-7512-8912" class="btn btn-outline-secondary" target="_blank">ORCID</a>
 <a href="https://researchmap.jp/ichio" class="btn btn-outline-secondary" target="_blank">researchmap</a>
+<a href="https://scholar.google.com/citations?user=YI9-vDMAAAAJ" class="btn btn-outline-secondary" target="_blank">Google Scholar</a>
 
 ::: {.cv-list}
 
@@ -36,12 +37,12 @@ My primary research investigates the spatial evolution of markets, focusing on t
 ### Presentations
 * *(Upcoming)* **Weak Bonds? Competing Regional Customs Unions and the German Market before the Zollverein** [Nov 2026]{.float-end}
   <br> North American Regional Science Council (NARSC) 2026 Annual Meeting, Philadelphia, USA — Graduate Student Author Paper Competition
-* **Competing Customs Unions and Market Integration: Grain prices in the German states, 1818–1833** [Download](assets/pres_20261019_winpec.pdf){.dl} [Oct 2026]{.float-end}
-  <br> [WINPEC Macroeconomics Seminar](https://winpec.sakura.ne.jp/Winpec_Workshop_Calendar/workshop/2), Waseda University
+* **Weak Bonds? Competing Regional Customs Unions and the German Market before the Zollverein** [Download](assets/pres_20261019_winpec.pdf){.dl} [Oct 2026]{.float-end}
+  <br> [WINPEC Macroeconomics Seminar](https://winpec.sakura.ne.jp/Winpec_Workshop_Calendar/seminars/view/289), Waseda University
 * **Premature Integration? Competing Unions and Uneven Market Integration in Germany, 1828–1833** [Download](assets/poster_20260523_JEA.pdf){.dl} [May 2026]{.float-end}
   <br> Japanese Economic Association 2026 Spring Conference, Osaka Metropolitan University
-* **Driver of Market Integration: Competing Customs Unions in 19th Century Germany** [Download](assets/pres_20251201_history.pdf){.dl} [Dec 2025]{.float-end}
-  <br> Centre for International Research on the Japanese Economy (CIRJE), The University of Tokyo
+* **Drivers of Market Integration: Competing Customs Unions in 19th Century Germany** [Download](assets/pres_20251201_history.pdf){.dl} [Dec 2025]{.float-end}
+  <br> [Research Meeting on Economic History, 813th Meeting](https://www.cirje.e.u-tokyo.ac.jp/research/workshops/history/history2025.html) (Graduate Student Session), Centre for International Research on the Japanese Economy (CIRJE), The University of Tokyo
 
 ### Past Theses
 * **Market Integration: German Unification and the Zollverein in the 19th Century** [Download](assets/thesis_ma_utokyo.pdf){.dl} [2022]{.float-end}
@@ -75,13 +76,13 @@ My primary research investigates the spatial evolution of markets, focusing on t
 * **Methods & Tools:** Spatial Data Analysis, Simulation Modeling, R, Python, Quarto
 * **Languages:** English (Native), German (Fluent), Japanese (Fluent)
 
-## Contact
-* **Email (General):** [mail@ichio-aoki.com](mailto:mail@ichio-aoki.com)
-* **Email (University):** [ichio-aoki@g.ecc.u-tokyo.ac.jp](mailto:ichio-aoki@g.ecc.u-tokyo.ac.jp)
+## Contact {#contact}
+* **Email (General):** mail [at] ichio-aoki.com
+* **Email (University):** ichio-aoki [at] g.ecc.u-tokyo.ac.jp
 * **Office:** Akamon General Research Building, Room 353, Hongo Campus, The University of Tokyo
 
 :::
 
 ---
 
-*Last updated: October 19, 2026*
+*Last updated: October 20, 2026*
