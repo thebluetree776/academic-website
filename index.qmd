@@ -63,6 +63,8 @@ My primary research investigates the spatial evolution of markets, focusing on t
   <br> Course by Prof. Andrew Griffen
 * **Teaching Assistant**, *Institutional Analysis of the Japanese Economy II*, Graduate School of Economics, The University of Tokyo [Fall 2025]{.float-end}
   <br> Course by Prof. Masaki Nakabayashi
+* **Teaching Assistant**, *Institutional Analysis of the Japanese Economy I*, Graduate School of Economics, The University of Tokyo [Spring 2022]{.float-end}
+  <br> Course by Prof. Masaki Nakabayashi
 * **Teaching Assistant**, *Institutional Analysis of the Japanese Economy II*, Graduate School of Economics, The University of Tokyo [Fall 2021]{.float-end}
   <br> Course by Prof. Masaki Nakabayashi
 
@@ -85,4 +87,4 @@ My primary research investigates the spatial evolution of markets, focusing on t
 
 ---
 
-*Last updated: October 20, 2026*
+*Last updated: October 29, 2026*
